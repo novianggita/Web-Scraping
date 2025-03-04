@@ -11,3 +11,8 @@ This data analysis aims to determine the extent of the availability of adequate 
 4. The above query displays accommodations in one of Lombok Island's famous tourist areas, namely the Senggigi area. Based on the output, it is known that some accommodations have high ratings (ranging from 8-10), indicating tourists' satisfaction with these accommodations. Additionally, these accommodations have affordable prices for all categories of tourists.
 5. This data can measure whether the available accommodations can reach all categories of tourists in terms of price. Some areas still have relatively high average accommodation prices, which may be due to being elite areas, limited number of accommodations, resulting in high prices, etc.
 6. This data can be a source for evaluating the performance/services provided by accommodations. The majority have good reviews, resulting in high ratings.
+
+
+If you have any suggestions or feedback, please don't hesitate to contact to me in direct message on Email or LinkedIn: noviaanggita047@gmail.com or https://www.linkedin.com/in/novia-anggita-aprilianti/
+
+#python #sql #web-scraping #web-scraping-python #dbeaver #traveloka
